@@ -44,6 +44,10 @@ npm start
 
 <img height="400" src="./src/img/costs-projetos-editar-2.PNG"/>
 
-** Adicionar serviços ao projeto
+* Adicionar serviços ao projeto
 
 <img height="400" src="./src/img/costs-adicionar-serviço.png"/>
+
+* Aplicação completa
+
+<img height="400" src="./src/img/costs.mp4">
