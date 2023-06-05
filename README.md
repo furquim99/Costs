@@ -50,4 +50,4 @@ npm start
 
 * Aplicação completa
 
-<img height="400" src="./src/img/costs.mp4">
+<video height="400" src="./src/img/costs.mp4">
