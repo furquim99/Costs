@@ -49,5 +49,5 @@ npm start
 <img height="400" src="./src/img/costs-adicionar-serviço.png"/>
 
 * Aplicação completa
-<img height="400" src="./src/img/costs.gif"/>
+<img src="./src/img/costs.gif">
 <!-- <video height="400" src="./src/img/costs.mp4"/> -->
