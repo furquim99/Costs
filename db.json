@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "novo projeto",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Mais um projeto teste",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1400,
+      "services": [
+        {
+          "name": "outro serviço",
+          "cost": "200",
+          "description": "melhorias",
+          "id": "cf44c035-64bf-4d83-b0db-60616a542f4d"
+        },
+        {
+          "name": "asdas",
+          "cost": "100",
+          "description": "asdsadas",
+          "id": "50f2d944-1695-4efe-aa43-6810993b2cbe"
+        },
+        {
+          "name": "teste02",
+          "cost": "500",
+          "description": "realização de teste",
+          "id": "e0ddb693-0de3-4383-8f3e-e046f4fd8920"
+        },
+        {
+          "name": "asdasdas",
+          "cost": "100",
+          "description": "melhorias",
+          "id": "2048ad81-9c54-4117-8fdd-6738f8f6ebaf"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

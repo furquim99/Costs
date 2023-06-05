@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Sobre
+Gerenciador de projetos feito com React permitindo um CRUD completo como: criar, atualizar, deletar e listar projetos que uma empresa pode realizar. É possível estipular um orçamento para o projeto e adicionar serviços para o mesmo. Esse projeto foi feito com base nas aulas do canal Hora de Codar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Como utilizar
+* Instalar a pasta <strong>node_modules</strong>
+```bash
+npm install
+```
+* Para simular uma API REST, foi utilizado a biblioteca <b>json-server</b>. Então, inicie o comando:
+```bash
+npm run backend
+```
 
-## Available Scripts
+* Iniciar a aplicação
+```bash
+npm start
+```
+# Tecnologias utilizadas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  </a>
+</p>
 
-In the project directory, you can run:
+# Imagens
 
-### `npm start`
+* Home
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img height="400" src="./src/img/Costs-tela-inicial-1.PNG"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img height="400" src="./src/img/Costs-tela-inicial-2.PNG"/>
 
-### `npm test`
+* Projetos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img height="400" src="./src/img/Costs-rpojetos.PNG"/>
 
-### `npm run build`
+* Criar Projetos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img height="400" src="./src/img/Costs-criação-projeto.PNG"/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Serviços
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img height="400" src="./src/img/costs-projestos-editar.PNG"/>
 
-### `npm run eject`
+<img height="400" src="./src/img/costs-projetos-editar-2.PNG"/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+** Adicionar serviços ao projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img height="400" src="./src/img/costs-adicionar-serviço.png"/>
