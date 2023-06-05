@@ -28,7 +28,7 @@ npm start
 
 <img height="400" src="./src/img/Costs-tela-inicial-1.PNG"/>
 
-<img height="400" src="./src/img/Costs-tela-inicial-2.PNG"/>
+<img height="400" src="./src/img/costs-tela-inicial-2.PNG"/>
 
 * Projetos
 
